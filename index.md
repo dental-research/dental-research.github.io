@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> ... Please note that this site currently under construction ...
+> ... Please note that this site is currently under construction ...
 
 ## Working group of Dr. Falk Schwendicke
 
