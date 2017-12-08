@@ -12,11 +12,10 @@ Welcome to the website of the working group of Dr. Falk Schwendicke.
 
 ### Research projects
 
-#### MIH (Molar-Incisor Hypomineralisation)
-
-#### Zahnarztatlas 2030
-
-#### Deep Learning for Image Classification and Segmentation (DECASE)
+* 
+* 
+* 
+* 
 
 ***
 ### Selected publications
