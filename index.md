@@ -26,20 +26,19 @@ Welcome to the website of the working group of Dr. Falk Schwendicke.
 * 
 * 
 
+A comprehensive list of publications may be reviewed on [Research Gate](https://www.researchgate.net/profile/Falk_Schwendicke).
 
 ***
 
 
 ### Contact
-![](https://i1.rgstatic.net/ii/profile.image/272886036430850-1442072509290_Q128/Falk_Schwendicke.jpg)
+![Falk Schwendicke](https://i1.rgstatic.net/ii/profile.image/272886036430850-1442072509290_Q128/Falk_Schwendicke.jpg)
 
 Priv.-Doz. Dr. Falk Schwendicke, MDPH   
 Deputy Head of Department  
 Charité Universitätsmedizin Berlin  
 Operative and Preventive Dentistry  
-Aßmannshauser Str. 4–6   
+Aßmannshauser Straße 4–6   
 14197 Berlin   
-030-450662556  
++49-(0)30-450-662556  
 falk.schwendicke@charite.de
-
-
