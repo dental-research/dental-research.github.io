@@ -6,14 +6,12 @@ Link to website: https://dental-research.github.io/
 
 ***
 Priv.-Doz. Dr. Falk Schwendicke, MDPH   
-Stellvertretender Abteilungsleiter   
-Oberarzt   
-Abteilung für Zahnerhaltung und Präventivzahnmedizin   
-CharitéCentrum 3 für Zahn-, Mund- und Kieferheilkunde   
-Charité – Universitätsmedizin Berlin   
-Aßmannshauser Str. 4–6   
+Deputy Head of Department  
+Charité Universitätsmedizin Berlin  
+Operative and Preventive Dentistry  
+Aßmannshauser Straße 4–6   
 14197 Berlin   
-030-450662556   
++49-(0)30-450-662556  
 falk.schwendicke@charite.de   
 
 
