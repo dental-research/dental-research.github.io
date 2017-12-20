@@ -2,6 +2,11 @@
 layout: default
 ---
 
+![](https://github.com/dental-research/dental-research.github.io/blob/master/assets/images/logo_dr.png) <!-- .element height="50%" width="50%" -->
+
+
+<img src="https://github.com/dental-research/dental-research.github.io/blob/master/assets/images/logo_dr.png" width="200" height="200">
+
 > ... Please note that this site is currently under construction ...
 
 ## Working group of Dr. Falk Schwendicke
