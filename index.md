@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![](https://github.com/dental-research/dental-research.github.io/blob/master/assets/images/logo_dr.png)
+
 > ... Please note that this site is currently under construction ...
 
 ## Working group of Dr. Falk Schwendicke
