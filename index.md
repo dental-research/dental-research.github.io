@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img src="https://github.com/dental-research/dental-research.github.io/blob/master/assets/images/logo_dr.png" width="200" height="200" />
+<img src="https://github.com/dental-research/dental-research.github.io/blob/master/assets/images/logo_dr.png" width="200" height="200">
 
 > ... Please note that this site is currently under construction ...
 
