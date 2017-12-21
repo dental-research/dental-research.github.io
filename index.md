@@ -2,13 +2,11 @@
 layout: default
 ---
 
-> ... Please note that this site is currently under construction ...
-
-
 
 ![](assets/images/logo_dr_small.png)
 
 
+> ... Please note that this site is currently under construction ...
 
 
 ## Working group of Dr. Falk Schwendicke
