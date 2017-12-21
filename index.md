@@ -2,10 +2,6 @@
 layout: default
 ---
 
-
-![](assets/images/logo_dr_small.png)
-
-
 > ... Please note that this site is currently under construction ...
 
 
